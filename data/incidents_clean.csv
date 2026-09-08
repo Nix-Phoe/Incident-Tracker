@@ -1,0 +1,201 @@
+id,date_ouverture,date_resolution,type_incident,severite,statut,temps_resolution_heures,systeme_affecte,est_resolu,semaine_ouverture,sla_cible_jours,jours_ouverture,sla_respecte,sla_actuellement_depasse
+INC-0020,2025-09-01 21:13:00,2025-09-02 20:35:00,malware,moyenne,fermé,23.4,Serveur de fichiers (OI-6965),True,2025-09-01,5,0.97,True,False
+INC-0010,2025-09-02 11:31:00,2025-09-03 16:20:00,malware,moyenne,fermé,28.8,Serveur applicatif (TE-9593),True,2025-09-01,5,1.2,True,False
+INC-0051,2025-09-08 11:48:00,2025-09-08 13:12:00,accès non autorisé,faible,fermé,1.4,Active Directory (DD-9805),True,2025-09-08,10,0.06,True,False
+INC-0094,2025-09-08 14:35:00,2025-09-08 18:49:00,phishing,faible,fermé,4.2,Messagerie (TS-7693),True,2025-09-08,10,0.18,True,False
+INC-0114,2025-09-08 16:59:00,,malware,moyenne,en cours,,Serveur applicatif (VW-5375),False,2025-09-08,5,357.29,,True
+INC-0147,2025-09-10 11:15:00,2025-09-10 13:03:00,autre,faible,fermé,1.8,Application interne (HE-2047),True,2025-09-08,10,0.08,True,False
+INC-0159,2025-09-11 14:47:00,2025-09-13 02:35:00,malware,moyenne,fermé,35.8,Poste de travail (DK-2421),True,2025-09-08,5,1.49,True,False
+INC-0061,2025-09-12 05:30:00,2025-09-12 16:01:00,phishing,moyenne,fermé,10.5,Messagerie (IT-5427),True,2025-09-08,5,0.44,True,False
+INC-0199,2025-09-14 04:44:00,2025-09-14 06:43:00,malware,faible,fermé,2.0,Poste de travail (EC-7482),True,2025-09-08,10,0.08,True,False
+INC-0053,2025-09-14 11:58:00,2025-09-20 01:27:00,malware,élevée,fermé,133.5,Poste de travail (ME-8121),True,2025-09-08,3,5.56,False,False
+INC-0165,2025-09-19 11:36:00,2025-09-20 20:12:00,accès non autorisé,moyenne,fermé,32.6,Application RH (RL-2787),True,2025-09-15,5,1.36,True,False
+INC-0126,2025-09-20 03:45:00,2025-09-21 04:21:00,accès non autorisé,moyenne,fermé,24.6,Active Directory (GB-5067),True,2025-09-15,5,1.02,True,False
+INC-0149,2025-09-20 07:28:00,2025-09-21 16:18:00,malware,moyenne,fermé,32.8,Serveur applicatif (TF-0229),True,2025-09-15,5,1.37,True,False
+INC-0136,2025-09-22 22:36:00,2025-09-23 01:48:00,accès non autorisé,faible,fermé,3.2,Base de données clients (SO-7701),True,2025-09-22,10,0.13,True,False
+INC-0062,2025-09-27 07:30:00,2025-09-27 22:05:00,déni de service,moyenne,fermé,14.6,Infrastructure réseau (QJ-4980),True,2025-09-22,5,0.61,True,False
+INC-0169,2025-09-30 00:03:00,2025-09-30 04:09:00,phishing,faible,fermé,4.1,Poste de travail (QU-0715),True,2025-09-29,10,0.17,True,False
+INC-0004,2025-09-30 02:44:00,2025-10-02 18:20:00,phishing,moyenne,fermé,63.6,Poste de travail (AO-0838),True,2025-09-29,5,2.65,True,False
+INC-0143,2025-10-02 01:39:00,2025-10-07 01:02:00,déni de service,critique,fermé,119.4,Site web public (LT-3435),True,2025-09-29,1,4.97,False,False
+INC-0040,2025-10-03 04:09:00,2025-10-03 09:58:00,phishing,moyenne,fermé,5.8,Messagerie (GQ-7631),True,2025-09-29,5,0.24,True,False
+INC-0043,2025-10-04 14:02:00,2025-10-04 19:09:00,phishing,moyenne,fermé,5.1,Poste de travail (IC-1333),True,2025-09-29,5,0.21,True,False
+INC-0028,2025-10-08 17:16:00,2025-10-09 01:59:00,malware,faible,fermé,8.7,Serveur applicatif (MU-2880),True,2025-10-06,10,0.36,True,False
+INC-0104,2025-10-13 20:23:00,2025-10-15 17:02:00,malware,critique,fermé,44.7,Serveur applicatif (EA-3623),True,2025-10-13,1,1.86,False,False
+INC-0012,2025-10-15 04:48:00,,malware,élevée,en cours,,Serveur applicatif (KX-6475),False,2025-10-13,3,320.8,,True
+INC-0121,2025-10-17 23:40:00,2025-10-18 15:27:00,autre,moyenne,fermé,15.8,Poste de travail (LB-1241),True,2025-10-13,5,0.66,True,False
+INC-0029,2025-10-20 10:26:00,2025-10-20 13:48:00,accès non autorisé,faible,fermé,3.4,Active Directory (ZT-7015),True,2025-10-20,10,0.14,True,False
+INC-0035,2025-10-24 22:24:00,2025-10-25 16:08:00,autre,moyenne,fermé,17.7,Serveur applicatif (BL-3315),True,2025-10-20,5,0.74,True,False
+INC-0056,2025-10-25 00:07:00,2025-10-25 21:44:00,accès non autorisé,élevée,fermé,21.6,Active Directory (QN-9985),True,2025-10-20,3,0.9,True,False
+INC-0082,2025-10-25 00:16:00,2025-10-26 18:08:00,phishing,moyenne,fermé,41.9,Poste de travail (TB-9340),True,2025-10-20,5,1.74,True,False
+INC-0065,2025-10-27 05:56:00,2025-10-28 03:03:00,autre,moyenne,fermé,21.1,Poste de travail (FQ-5348),True,2025-10-27,5,0.88,True,False
+INC-0163,2025-10-29 03:39:00,2025-10-29 05:47:00,phishing,faible,fermé,2.1,Portail webmail (FO-5940),True,2025-10-27,10,0.09,True,False
+INC-0016,2025-10-30 03:54:00,2025-10-30 06:48:00,accès non autorisé,faible,fermé,2.9,Active Directory (ZR-0305),True,2025-10-27,10,0.12,True,False
+INC-0068,2025-10-30 08:37:00,2025-10-30 16:41:00,phishing,faible,fermé,8.1,Portail webmail (HE-8680),True,2025-10-27,10,0.34,True,False
+INC-0067,2025-11-05 01:47:00,,phishing,moyenne,en cours,,Messagerie (VC-5242),False,2025-11-03,5,299.93,,True
+INC-0049,2025-11-05 07:57:00,2025-11-06 10:23:00,malware,moyenne,fermé,26.4,Poste de travail (QT-7468),True,2025-11-03,5,1.1,True,False
+INC-0085,2025-11-08 19:11:00,2025-11-09 02:28:00,malware,faible,fermé,7.3,Serveur de fichiers (UZ-4846),True,2025-11-03,10,0.3,True,False
+INC-0037,2025-11-09 02:20:00,2025-11-09 08:38:00,malware,faible,fermé,6.3,Poste de travail (VE-0310),True,2025-11-03,10,0.26,True,False
+INC-0052,2025-11-12 15:15:00,2025-11-12 17:21:00,déni de service,faible,fermé,2.1,Serveur web (KD-9788),True,2025-11-10,10,0.09,True,False
+INC-0060,2025-11-12 16:32:00,2025-11-12 22:24:00,malware,faible,fermé,5.9,Serveur applicatif (EP-8425),True,2025-11-10,10,0.24,True,False
+INC-0190,2025-11-17 23:49:00,2025-11-18 03:39:00,déni de service,faible,fermé,3.8,Infrastructure réseau (OT-5865),True,2025-11-17,10,0.16,True,False
+INC-0118,2025-11-18 09:56:00,2025-11-18 17:03:00,accès non autorisé,moyenne,fermé,7.1,Application RH (EQ-9232),True,2025-11-17,5,0.3,True,False
+INC-0155,2025-11-18 16:41:00,2025-11-18 20:22:00,malware,faible,fermé,3.7,Poste de travail (CS-1206),True,2025-11-17,10,0.15,True,False
+INC-0006,2025-11-19 01:54:00,2025-11-24 07:50:00,phishing,critique,fermé,125.9,Poste de travail (JN-2654),True,2025-11-17,1,5.25,False,False
+INC-0036,2025-11-21 06:11:00,2025-11-21 09:37:00,déni de service,faible,fermé,3.4,Serveur web (AE-8393),True,2025-11-17,10,0.14,True,False
+INC-0015,2025-11-21 11:32:00,2025-11-22 21:47:00,accès non autorisé,moyenne,fermé,34.3,Active Directory (XX-4835),True,2025-11-17,5,1.43,True,False
+INC-0064,2025-11-23 07:04:00,2025-11-26 17:48:00,phishing,élevée,fermé,82.7,Poste de travail (MN-8244),True,2025-11-17,3,3.45,False,False
+INC-0111,2025-11-23 08:50:00,2025-11-24 07:16:00,malware,moyenne,fermé,22.4,Serveur de fichiers (BZ-7298),True,2025-11-17,5,0.93,True,False
+INC-0095,2025-12-01 16:07:00,2025-12-01 18:50:00,déni de service,faible,fermé,2.7,Infrastructure réseau (JP-6763),True,2025-12-01,10,0.11,True,False
+INC-0078,2025-12-03 20:01:00,2025-12-04 08:07:00,malware,moyenne,fermé,12.1,Serveur applicatif (RI-4586),True,2025-12-01,5,0.5,True,False
+INC-0005,2025-12-05 20:55:00,2025-12-06 02:17:00,phishing,faible,fermé,5.4,Portail webmail (WZ-7940),True,2025-12-01,10,0.22,True,False
+INC-0086,2025-12-06 03:52:00,2025-12-06 10:08:00,malware,faible,fermé,6.3,Poste de travail (AQ-4823),True,2025-12-01,10,0.26,True,False
+INC-0092,2025-12-15 13:15:00,2025-12-16 04:29:00,phishing,moyenne,fermé,15.2,Poste de travail (JB-3433),True,2025-12-15,5,0.63,True,False
+INC-0106,2025-12-16 19:39:00,2025-12-17 08:10:00,malware,moyenne,fermé,12.5,Serveur applicatif (SB-3669),True,2025-12-15,5,0.52,True,False
+INC-0182,2025-12-18 01:44:00,2025-12-20 12:04:00,autre,élevée,fermé,58.3,Poste de travail (JW-8755),True,2025-12-15,3,2.43,True,False
+INC-0132,2025-12-19 07:55:00,2025-12-24 06:07:00,phishing,élevée,fermé,118.2,Poste de travail (WZ-5273),True,2025-12-15,3,4.92,False,False
+INC-0075,2025-12-20 12:48:00,2025-12-20 18:32:00,accès non autorisé,faible,fermé,5.7,Base de données clients (OM-1607),True,2025-12-15,10,0.24,True,False
+INC-0066,2025-12-20 14:42:00,2025-12-20 18:34:00,phishing,moyenne,fermé,3.9,Messagerie (CA-0164),True,2025-12-15,5,0.16,True,False
+INC-0141,2025-12-22 02:51:00,2025-12-22 11:17:00,phishing,moyenne,fermé,8.4,Portail webmail (VE-8233),True,2025-12-22,5,0.35,True,False
+INC-0013,2025-12-25 18:06:00,2025-12-26 02:41:00,phishing,moyenne,fermé,8.6,Portail webmail (MO-5341),True,2025-12-22,5,0.36,True,False
+INC-0027,2025-12-26 22:08:00,2025-12-27 08:33:00,phishing,moyenne,fermé,10.4,Messagerie (JX-4893),True,2025-12-22,5,0.43,True,False
+INC-0059,2025-12-30 13:49:00,2025-12-30 17:59:00,phishing,faible,fermé,4.2,Portail webmail (IN-9911),True,2025-12-29,10,0.17,True,False
+INC-0022,2026-01-01 22:16:00,2026-01-02 00:31:00,malware,faible,fermé,2.2,Serveur de fichiers (YY-2691),True,2025-12-29,10,0.09,True,False
+INC-0019,2026-01-01 23:00:00,2026-01-03 15:25:00,autre,élevée,fermé,40.4,Application interne (VL-3884),True,2025-12-29,3,1.68,True,False
+INC-0042,2026-01-04 03:27:00,2026-01-05 20:52:00,accès non autorisé,élevée,fermé,41.4,Base de données clients (UV-0106),True,2025-12-29,3,1.73,True,False
+INC-0186,2026-01-05 16:37:00,2026-01-05 19:43:00,autre,moyenne,fermé,3.1,Poste de travail (GL-2702),True,2026-01-05,5,0.13,True,False
+INC-0024,2026-01-06 03:48:00,2026-01-06 13:16:00,autre,élevée,fermé,9.5,Serveur applicatif (HS-1845),True,2026-01-05,3,0.39,True,False
+INC-0134,2026-01-07 05:41:00,2026-01-07 09:20:00,déni de service,faible,fermé,3.6,Infrastructure réseau (FP-8083),True,2026-01-05,10,0.15,True,False
+INC-0184,2026-01-07 13:15:00,2026-01-07 18:19:00,malware,faible,fermé,5.1,Serveur applicatif (XA-3963),True,2026-01-05,10,0.21,True,False
+INC-0120,2026-01-11 12:10:00,2026-01-12 05:20:00,autre,moyenne,fermé,17.2,Serveur applicatif (VT-5299),True,2026-01-05,5,0.72,True,False
+INC-0158,2026-01-12 03:36:00,2026-01-12 19:26:00,accès non autorisé,moyenne,fermé,15.8,Active Directory (IO-9361),True,2026-01-12,5,0.66,True,False
+INC-0080,2026-01-14 03:56:00,2026-01-15 03:31:00,déni de service,élevée,fermé,23.6,Infrastructure réseau (BW-4019),True,2026-01-12,3,0.98,True,False
+INC-0196,2026-01-15 08:47:00,,malware,faible,en cours,,Serveur de fichiers (NY-2221),False,2026-01-12,10,228.63,,True
+INC-0025,2026-01-16 04:16:00,2026-01-17 04:43:00,phishing,élevée,fermé,24.5,Portail webmail (UU-6270),True,2026-01-12,3,1.02,True,False
+INC-0187,2026-01-18 20:35:00,2026-01-19 02:58:00,accès non autorisé,faible,fermé,6.4,Application RH (HD-5171),True,2026-01-12,10,0.27,True,False
+INC-0100,2026-01-19 13:35:00,2026-01-24 08:22:00,accès non autorisé,critique,fermé,114.8,Active Directory (QW-7277),True,2026-01-19,1,4.78,False,False
+INC-0153,2026-01-19 13:40:00,2026-01-19 17:45:00,malware,faible,fermé,4.1,Serveur de fichiers (ON-0913),True,2026-01-19,10,0.17,True,False
+INC-0156,2026-01-20 09:55:00,2026-01-21 13:59:00,malware,moyenne,fermé,28.1,Serveur de fichiers (OS-9740),True,2026-01-19,5,1.17,True,False
+INC-0096,2026-01-20 22:05:00,,autre,moyenne,en cours,,Serveur applicatif (LZ-0163),False,2026-01-19,5,223.08,,True
+INC-0050,2026-01-22 21:08:00,2026-01-22 21:57:00,malware,faible,fermé,0.8,Serveur applicatif (ND-7234),True,2026-01-19,10,0.03,True,False
+INC-0167,2026-01-24 23:28:00,2026-01-26 13:24:00,accès non autorisé,élevée,fermé,37.9,VPN d'entreprise (KV-6551),True,2026-01-19,3,1.58,True,False
+INC-0115,2026-01-27 19:20:00,2026-01-27 22:48:00,malware,faible,fermé,3.5,Serveur applicatif (FE-6464),True,2026-01-26,10,0.14,True,False
+INC-0181,2026-01-28 09:25:00,2026-01-30 10:28:00,malware,élevée,fermé,49.1,Serveur applicatif (JC-4997),True,2026-01-26,3,2.04,True,False
+INC-0185,2026-01-29 13:55:00,2026-02-01 06:33:00,malware,élevée,fermé,64.6,Serveur de fichiers (YQ-0576),True,2026-01-26,3,2.69,True,False
+INC-0166,2026-01-29 21:29:00,2026-01-30 11:58:00,malware,faible,fermé,14.5,Poste de travail (EW-9671),True,2026-01-26,10,0.6,True,False
+INC-0130,2026-02-02 08:25:00,2026-02-02 23:41:00,phishing,moyenne,fermé,15.3,Portail webmail (WD-1473),True,2026-02-02,5,0.64,True,False
+INC-0178,2026-02-04 19:24:00,2026-02-07 21:55:00,malware,critique,fermé,74.5,Serveur applicatif (JY-7378),True,2026-02-02,1,3.1,False,False
+INC-0122,2026-02-04 21:59:00,2026-02-05 01:25:00,malware,moyenne,fermé,3.4,Poste de travail (TM-4966),True,2026-02-02,5,0.14,True,False
+INC-0180,2026-02-06 23:24:00,2026-02-07 22:04:00,accès non autorisé,moyenne,fermé,22.7,Application RH (AS-6584),True,2026-02-02,5,0.94,True,False
+INC-0079,2026-02-12 13:58:00,2026-02-12 23:42:00,déni de service,moyenne,fermé,9.7,Site web public (LL-5014),True,2026-02-09,5,0.41,True,False
+INC-0192,2026-02-12 17:20:00,2026-02-12 19:48:00,phishing,faible,fermé,2.5,Portail webmail (GW-4316),True,2026-02-09,10,0.1,True,False
+INC-0183,2026-02-13 07:25:00,2026-02-13 19:32:00,accès non autorisé,moyenne,fermé,12.1,VPN d'entreprise (MS-8675),True,2026-02-09,5,0.5,True,False
+INC-0117,2026-02-14 00:06:00,2026-02-15 19:17:00,malware,élevée,fermé,43.2,Serveur applicatif (MB-1003),True,2026-02-09,3,1.8,True,False
+INC-0007,2026-02-14 03:36:00,2026-02-15 22:18:00,phishing,élevée,fermé,42.7,Portail webmail (GW-5116),True,2026-02-09,3,1.78,True,False
+INC-0127,2026-02-15 03:30:00,2026-02-15 07:37:00,déni de service,faible,fermé,4.1,Infrastructure réseau (LU-5726),True,2026-02-09,10,0.17,True,False
+INC-0077,2026-02-15 06:55:00,2026-02-15 09:03:00,phishing,faible,fermé,2.1,Portail webmail (EX-3654),True,2026-02-09,10,0.09,True,False
+INC-0131,2026-02-16 14:14:00,2026-02-16 19:27:00,accès non autorisé,faible,fermé,5.2,VPN d'entreprise (BF-9965),True,2026-02-16,10,0.22,True,False
+INC-0195,2026-02-19 11:23:00,2026-02-19 14:24:00,phishing,faible,fermé,3.0,Messagerie (KR-2386),True,2026-02-16,10,0.13,True,False
+INC-0197,2026-02-20 06:53:00,2026-02-20 18:30:00,déni de service,moyenne,fermé,11.6,Serveur web (JO-9379),True,2026-02-16,5,0.48,True,False
+INC-0093,2026-02-22 03:46:00,,autre,moyenne,en cours,,Serveur applicatif (XE-0379),False,2026-02-16,5,190.84,,True
+INC-0003,2026-02-24 10:36:00,2026-02-26 23:54:00,malware,élevée,fermé,61.3,Serveur applicatif (GM-0133),True,2026-02-23,3,2.55,True,False
+INC-0200,2026-02-25 09:07:00,2026-02-25 15:45:00,malware,faible,fermé,6.6,Poste de travail (SQ-5946),True,2026-02-23,10,0.28,True,False
+INC-0097,2026-02-27 03:57:00,2026-02-27 16:56:00,autre,faible,fermé,13.0,Poste de travail (PH-8708),True,2026-02-23,10,0.54,True,False
+INC-0140,2026-02-27 11:03:00,,autre,faible,en cours,,Serveur applicatif (HV-3135),False,2026-02-23,10,185.54,,True
+INC-0076,2026-02-28 20:04:00,2026-02-28 23:09:00,malware,faible,fermé,3.1,Serveur applicatif (OB-7543),True,2026-02-23,10,0.13,True,False
+INC-0173,2026-03-10 14:36:00,2026-03-10 19:46:00,malware,faible,fermé,5.2,Serveur de fichiers (SF-8247),True,2026-03-09,10,0.22,True,False
+INC-0144,2026-03-11 03:44:00,2026-03-11 12:47:00,malware,moyenne,fermé,9.1,Serveur de fichiers (CD-0824),True,2026-03-09,5,0.38,True,False
+INC-0174,2026-03-11 19:44:00,2026-04-17 20:15:00,phishing,critique,fermé,888.5,Portail webmail (TK-1093),True,2026-03-09,1,37.02,False,False
+INC-0139,2026-03-16 06:09:00,2026-03-17 14:11:00,phishing,élevée,fermé,32.0,Poste de travail (TQ-5574),True,2026-03-16,3,1.33,True,False
+INC-0116,2026-03-17 12:14:00,2026-03-18 10:44:00,phishing,élevée,fermé,22.5,Messagerie (OP-0805),True,2026-03-16,3,0.94,True,False
+INC-0105,2026-03-17 16:39:00,2026-03-20 08:02:00,déni de service,élevée,fermé,63.4,Serveur web (AD-6587),True,2026-03-16,3,2.64,True,False
+INC-0071,2026-03-18 07:48:00,2026-03-18 08:53:00,phishing,faible,fermé,1.1,Portail webmail (QG-0533),True,2026-03-16,10,0.05,True,False
+INC-0033,2026-03-19 06:28:00,2026-03-19 08:29:00,autre,faible,fermé,2.0,Application interne (TT-6383),True,2026-03-16,10,0.08,True,False
+INC-0083,2026-03-21 01:00:00,,phishing,élevée,en cours,,Portail webmail (XB-0883),False,2026-03-16,3,163.96,,True
+INC-0069,2026-03-22 16:00:00,2026-03-23 01:11:00,phishing,faible,fermé,9.2,Poste de travail (LJ-2805),True,2026-03-16,10,0.38,True,False
+INC-0123,2026-03-22 17:33:00,2026-03-22 21:13:00,phishing,faible,fermé,3.7,Portail webmail (SX-1931),True,2026-03-16,10,0.15,True,False
+INC-0135,2026-03-23 09:16:00,2026-03-23 14:17:00,phishing,moyenne,fermé,5.0,Portail webmail (SE-6783),True,2026-03-23,5,0.21,True,False
+INC-0194,2026-03-27 07:08:00,2026-03-28 01:54:00,accès non autorisé,élevée,fermé,18.8,Application RH (XB-5045),True,2026-03-23,3,0.78,True,False
+INC-0154,2026-03-28 02:10:00,2026-03-28 14:26:00,malware,moyenne,fermé,12.3,Serveur applicatif (LJ-4123),True,2026-03-23,5,0.51,True,False
+INC-0172,2026-04-01 08:52:00,2026-04-01 22:01:00,phishing,moyenne,fermé,13.2,Portail webmail (NR-9770),True,2026-03-30,5,0.55,True,False
+INC-0129,2026-04-01 10:39:00,2026-04-01 12:31:00,accès non autorisé,faible,fermé,1.9,Application RH (UP-7694),True,2026-03-30,10,0.08,True,False
+INC-0160,2026-04-03 15:50:00,2026-04-04 13:38:00,malware,élevée,fermé,21.8,Serveur de fichiers (CH-4994),True,2026-03-30,3,0.91,True,False
+INC-0107,2026-04-03 18:09:00,2026-04-03 22:58:00,malware,moyenne,fermé,4.8,Poste de travail (WT-9670),True,2026-03-30,5,0.2,True,False
+INC-0162,2026-04-04 12:02:00,2026-04-05 16:22:00,phishing,élevée,fermé,28.3,Messagerie (CB-7719),True,2026-03-30,3,1.18,True,False
+INC-0142,2026-04-06 15:53:00,2026-04-06 23:37:00,autre,moyenne,fermé,7.7,Poste de travail (SG-4989),True,2026-04-06,5,0.32,True,False
+INC-0157,2026-04-07 21:07:00,2026-04-07 21:44:00,accès non autorisé,faible,fermé,0.6,VPN d'entreprise (QY-4713),True,2026-04-06,10,0.03,True,False
+INC-0009,2026-04-11 06:24:00,2026-04-11 12:36:00,phishing,faible,fermé,6.2,Messagerie (JS-8161),True,2026-04-06,10,0.26,True,False
+INC-0113,2026-04-16 19:23:00,2026-04-17 00:09:00,phishing,faible,fermé,4.8,Poste de travail (QY-2720),True,2026-04-13,10,0.2,True,False
+INC-0109,2026-04-18 01:25:00,2026-04-18 05:12:00,phishing,faible,fermé,3.8,Portail webmail (BF-3734),True,2026-04-13,10,0.16,True,False
+INC-0198,2026-04-22 00:26:00,2026-04-24 10:47:00,phishing,élevée,fermé,58.3,Portail webmail (QA-7474),True,2026-04-20,3,2.43,True,False
+INC-0179,2026-04-25 17:47:00,2026-04-27 03:51:00,malware,élevée,fermé,34.1,Serveur de fichiers (ER-3982),True,2026-04-20,3,1.42,True,False
+INC-0191,2026-04-28 14:02:00,2026-05-02 19:51:00,accès non autorisé,critique,fermé,101.8,VPN d'entreprise (EP-7809),True,2026-04-27,1,4.24,False,False
+INC-0188,2026-05-08 09:38:00,2026-05-08 11:39:00,autre,faible,fermé,2.0,Poste de travail (EE-0262),True,2026-05-04,10,0.08,True,False
+INC-0168,2026-05-08 14:26:00,2026-05-16 04:34:00,accès non autorisé,élevée,fermé,182.1,VPN d'entreprise (WJ-6746),True,2026-05-04,3,7.59,False,False
+INC-0152,2026-05-12 11:53:00,2026-05-13 00:55:00,phishing,élevée,fermé,13.0,Portail webmail (KN-4964),True,2026-05-11,3,0.54,True,False
+INC-0002,2026-05-13 06:19:00,2026-05-14 03:51:00,autre,moyenne,fermé,21.5,Serveur applicatif (BC-1819),True,2026-05-11,5,0.9,True,False
+INC-0128,2026-05-14 08:42:00,2026-05-14 10:55:00,malware,faible,fermé,2.2,Poste de travail (XE-8498),True,2026-05-11,10,0.09,True,False
+INC-0171,2026-05-14 08:54:00,2026-05-14 12:39:00,accès non autorisé,faible,fermé,3.7,Base de données clients (HX-7603),True,2026-05-11,10,0.16,True,False
+INC-0041,2026-05-18 07:03:00,2026-05-18 18:57:00,déni de service,moyenne,fermé,11.9,Serveur web (DU-6566),True,2026-05-18,5,0.5,True,False
+INC-0055,2026-05-18 22:10:00,2026-05-19 18:42:00,phishing,moyenne,fermé,20.5,Portail webmail (AQ-9091),True,2026-05-18,5,0.86,True,False
+INC-0014,2026-05-20 16:27:00,2026-05-24 03:57:00,déni de service,élevée,fermé,83.5,Infrastructure réseau (DY-2832),True,2026-05-18,3,3.48,False,False
+INC-0150,2026-05-22 03:33:00,2026-05-22 05:19:00,phishing,faible,fermé,1.8,Portail webmail (MM-3186),True,2026-05-18,10,0.07,True,False
+INC-0090,2026-05-25 20:36:00,2026-05-26 16:45:00,phishing,moyenne,fermé,20.1,Portail webmail (QF-3872),True,2026-05-25,5,0.84,True,False
+INC-0133,2026-05-30 04:56:00,2026-05-31 06:51:00,accès non autorisé,moyenne,fermé,25.9,VPN d'entreprise (SR-4549),True,2026-05-25,5,1.08,True,False
+INC-0119,2026-05-31 06:39:00,2026-05-31 11:39:00,phishing,moyenne,fermé,5.0,Portail webmail (SQ-1937),True,2026-05-25,5,0.21,True,False
+INC-0125,2026-06-02 03:50:00,2026-06-02 12:14:00,déni de service,faible,fermé,8.4,Infrastructure réseau (EG-5865),True,2026-06-01,10,0.35,True,False
+INC-0189,2026-06-03 10:24:00,2026-06-03 14:46:00,phishing,moyenne,fermé,4.4,Poste de travail (PF-4596),True,2026-06-01,5,0.18,True,False
+INC-0031,2026-06-03 12:18:00,2026-06-03 23:50:00,phishing,moyenne,fermé,11.5,Poste de travail (IQ-7182),True,2026-06-01,5,0.48,True,False
+INC-0057,2026-06-03 13:13:00,2026-06-03 18:42:00,déni de service,moyenne,fermé,5.5,Site web public (IQ-5346),True,2026-06-01,5,0.23,True,False
+INC-0054,2026-06-05 01:00:00,2026-06-05 15:37:00,phishing,moyenne,fermé,14.6,Poste de travail (PL-3619),True,2026-06-01,5,0.61,True,False
+INC-0032,2026-06-05 19:51:00,2026-06-14 03:56:00,malware,critique,fermé,200.1,Serveur applicatif (HM-7824),True,2026-06-01,1,8.34,False,False
+INC-0176,2026-06-10 15:52:00,2026-06-10 18:18:00,phishing,faible,fermé,2.4,Poste de travail (PJ-3171),True,2026-06-08,10,0.1,True,False
+INC-0103,2026-06-13 01:57:00,2026-06-13 06:34:00,malware,faible,fermé,4.6,Serveur applicatif (IJ-5581),True,2026-06-08,10,0.19,True,False
+INC-0164,2026-06-13 11:15:00,,phishing,faible,en cours,,Messagerie (KC-9904),False,2026-06-08,10,79.53,,True
+INC-0072,2026-06-19 18:59:00,2026-06-20 07:51:00,phishing,moyenne,fermé,12.9,Messagerie (VJ-5869),True,2026-06-15,5,0.54,True,False
+INC-0038,2026-06-20 23:39:00,2026-06-21 11:32:00,accès non autorisé,moyenne,fermé,11.9,Active Directory (NI-8347),True,2026-06-15,5,0.5,True,False
+INC-0193,2026-06-21 19:55:00,2026-06-22 03:04:00,malware,faible,fermé,7.2,Serveur applicatif (BC-1724),True,2026-06-15,10,0.3,True,False
+INC-0088,2026-06-22 00:14:00,2026-06-23 05:01:00,malware,moyenne,fermé,28.8,Poste de travail (NB-8044),True,2026-06-22,5,1.2,True,False
+INC-0112,2026-06-26 18:25:00,2026-06-26 22:27:00,malware,faible,fermé,4.0,Serveur de fichiers (PB-9901),True,2026-06-22,10,0.17,True,False
+INC-0108,2026-06-29 02:14:00,2026-06-29 06:06:00,accès non autorisé,faible,fermé,3.9,Active Directory (ZM-6688),True,2026-06-29,10,0.16,True,False
+INC-0137,2026-07-05 06:36:00,2026-07-09 22:22:00,phishing,critique,fermé,111.8,Portail webmail (XE-6349),True,2026-06-29,1,4.66,False,False
+INC-0047,2026-07-05 18:15:00,2026-07-05 20:12:00,accès non autorisé,faible,fermé,2.0,Base de données clients (DK-7736),True,2026-06-29,10,0.08,True,False
+INC-0161,2026-07-06 10:01:00,2026-07-06 13:05:00,autre,faible,fermé,3.1,Poste de travail (GI-7464),True,2026-07-06,10,0.13,True,False
+INC-0084,2026-07-06 10:39:00,2026-07-06 12:45:00,phishing,faible,fermé,2.1,Poste de travail (QH-1595),True,2026-07-06,10,0.09,True,False
+INC-0138,2026-07-08 15:12:00,2026-07-09 01:37:00,accès non autorisé,moyenne,fermé,10.4,VPN d'entreprise (VJ-8856),True,2026-07-06,5,0.43,True,False
+INC-0175,2026-07-09 23:48:00,2026-07-10 07:04:00,phishing,faible,fermé,7.3,Poste de travail (AF-4808),True,2026-07-06,10,0.3,True,False
+INC-0034,2026-07-10 16:28:00,2026-07-10 18:35:00,malware,faible,fermé,2.1,Serveur applicatif (CH-6578),True,2026-07-06,10,0.09,True,False
+INC-0124,2026-07-10 18:09:00,2026-07-11 18:15:00,malware,moyenne,fermé,24.1,Serveur applicatif (YC-4919),True,2026-07-06,5,1.0,True,False
+INC-0023,2026-07-13 03:09:00,2026-07-15 10:40:00,accès non autorisé,critique,fermé,55.5,Base de données clients (JA-9784),True,2026-07-13,1,2.31,False,False
+INC-0148,2026-07-14 05:33:00,2026-07-14 14:07:00,phishing,moyenne,fermé,8.6,Poste de travail (OR-6719),True,2026-07-13,5,0.36,True,False
+INC-0145,2026-07-15 16:03:00,2026-07-16 06:17:00,accès non autorisé,moyenne,fermé,14.2,Active Directory (GA-8427),True,2026-07-13,5,0.59,True,False
+INC-0074,2026-07-17 11:24:00,2026-07-18 01:29:00,malware,faible,fermé,14.1,Serveur applicatif (KY-5634),True,2026-07-13,10,0.59,True,False
+INC-0146,2026-07-19 12:25:00,2026-07-19 17:16:00,accès non autorisé,faible,fermé,4.8,Base de données clients (CV-9477),True,2026-07-13,10,0.2,True,False
+INC-0063,2026-07-19 20:33:00,2026-07-20 09:57:00,phishing,moyenne,fermé,13.4,Portail webmail (HG-4124),True,2026-07-13,5,0.56,True,False
+INC-0073,2026-07-21 05:51:00,2026-07-25 01:57:00,phishing,élevée,fermé,92.1,Poste de travail (BL-3226),True,2026-07-20,3,3.84,False,False
+INC-0008,2026-07-22 11:55:00,2026-07-26 00:56:00,accès non autorisé,élevée,fermé,85.0,Application RH (UD-5940),True,2026-07-20,3,3.54,False,False
+INC-0018,2026-07-24 12:08:00,2026-07-24 17:07:00,phishing,faible,fermé,5.0,Poste de travail (QI-7672),True,2026-07-20,10,0.21,True,False
+INC-0091,2026-07-26 11:56:00,2026-07-26 18:11:00,déni de service,faible,fermé,6.2,Site web public (FW-4895),True,2026-07-20,10,0.26,True,False
+INC-0151,2026-07-28 15:07:00,2026-07-29 02:02:00,accès non autorisé,élevée,fermé,10.9,Active Directory (CC-9386),True,2026-07-27,3,0.45,True,False
+INC-0177,2026-07-28 16:24:00,2026-07-29 16:03:00,autre,moyenne,fermé,23.6,Application interne (AE-7484),True,2026-07-27,5,0.99,True,False
+INC-0026,2026-07-29 22:40:00,2026-07-30 00:46:00,autre,faible,fermé,2.1,Application interne (GO-4828),True,2026-07-27,10,0.09,True,False
+INC-0110,2026-07-29 22:56:00,2026-08-05 23:52:00,phishing,élevée,fermé,168.9,Poste de travail (UK-0656),True,2026-07-27,3,7.04,False,False
+INC-0081,2026-07-31 01:55:00,2026-08-02 04:16:00,phishing,moyenne,fermé,50.4,Poste de travail (HY-5698),True,2026-07-27,5,2.1,True,False
+INC-0099,2026-08-06 23:01:00,2026-08-07 09:22:00,accès non autorisé,faible,fermé,10.4,Application RH (BJ-5798),True,2026-08-03,10,0.43,True,False
+INC-0058,2026-08-11 05:28:00,2026-08-11 21:53:00,phishing,moyenne,fermé,16.4,Portail webmail (AD-4751),True,2026-08-10,5,0.68,True,False
+INC-0087,2026-08-12 04:46:00,2026-08-12 21:07:00,phishing,moyenne,fermé,16.4,Poste de travail (TZ-6299),True,2026-08-10,5,0.68,True,False
+INC-0098,2026-08-12 05:52:00,2026-08-12 19:17:00,déni de service,faible,fermé,13.4,Infrastructure réseau (JM-7278),True,2026-08-10,10,0.56,True,False
+INC-0048,2026-08-13 09:35:00,2026-08-13 13:19:00,malware,faible,fermé,3.7,Serveur de fichiers (YY-6064),True,2026-08-10,10,0.16,True,False
+INC-0011,2026-08-15 17:33:00,2026-08-15 20:20:00,accès non autorisé,faible,fermé,2.8,Application RH (OG-0341),True,2026-08-10,10,0.12,True,False
+INC-0102,2026-08-16 12:44:00,2026-08-17 00:50:00,phishing,moyenne,fermé,12.1,Portail webmail (PR-4714),True,2026-08-10,5,0.5,True,False
+INC-0017,2026-08-16 14:47:00,2026-08-16 23:42:00,phishing,moyenne,fermé,8.9,Portail webmail (NP-1395),True,2026-08-10,5,0.37,True,False
+INC-0070,2026-08-17 23:45:00,2026-08-18 05:37:00,phishing,moyenne,fermé,5.9,Messagerie (TX-2620),True,2026-08-17,5,0.24,True,False
+INC-0170,2026-08-18 01:59:00,2026-08-31 17:38:00,déni de service,critique,résolu,327.6,Serveur web (QI-1680),True,2026-08-17,1,13.65,False,False
+INC-0044,2026-08-18 15:04:00,2026-08-18 16:24:00,malware,faible,fermé,1.3,Serveur de fichiers (DP-2624),True,2026-08-17,10,0.06,True,False
+INC-0030,2026-08-21 15:59:00,2026-08-21 21:49:00,phishing,moyenne,fermé,5.8,Messagerie (FF-3039),True,2026-08-17,5,0.24,True,False
+INC-0021,2026-08-23 22:39:00,2026-08-24 08:34:00,phishing,élevée,fermé,9.9,Portail webmail (HJ-8710),True,2026-08-17,3,0.41,True,False
+INC-0089,2026-08-26 08:23:00,2026-08-26 14:37:00,malware,faible,fermé,6.2,Poste de travail (CC-9957),True,2026-08-24,10,0.26,True,False
+INC-0039,2026-08-26 13:31:00,2026-08-26 20:03:00,phishing,faible,fermé,6.5,Messagerie (PY-2997),True,2026-08-24,10,0.27,True,False
+INC-0001,2026-08-27 04:36:00,2026-08-27 23:42:00,accès non autorisé,élevée,résolu,19.1,Base de données clients (OI-1043),True,2026-08-24,3,0.8,True,False
+INC-0045,2026-08-30 06:59:00,,accès non autorisé,élevée,en cours,,Base de données clients (DP-1781),False,2026-08-24,3,1.71,,False
+INC-0101,2026-08-30 12:29:00,,accès non autorisé,élevée,en cours,,Base de données clients (OP-3487),False,2026-08-24,3,1.48,,False
+INC-0046,2026-08-30 20:19:00,,déni de service,élevée,en cours,,Infrastructure réseau (KA-8013),False,2026-08-24,3,1.15,,False

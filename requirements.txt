@@ -3,3 +3,8 @@ numpy>=1.24
 matplotlib>=3.7
 seaborn>=0.12
 faker>=20.0
+requests
+pandas
+matplotlib
+# pytest : framework de tests unitaires (voir tests/test_filter_analyze.py)
+pytest
